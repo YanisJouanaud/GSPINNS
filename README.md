@@ -6,6 +6,10 @@ This repository includes the functions to perform the Generalised Smoothing Algo
 - `spline.py` defines the methods to work with splines.
 - `GSA_fun.py` contains all the methods needed to perform a GSA on data.
 
+# GSPINN_algorithm
+
+This repository also includes the functions to perform the Generalised Smoothing Physics Informed Neural Network:
+in the  folder, different scripts to run to test the different parts of the algorithm.
 
 ## User-specific model
 To use the GSA for a specific application, employing a specific model, we invite the user to create a new file within the folder `fun_example` and define the model.
